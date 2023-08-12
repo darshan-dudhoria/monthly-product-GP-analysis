@@ -32,7 +32,7 @@ Date should be in dd mmmm yyyy format.
 
 ## Note
 
-Though we have taken adequate care to create this script, however there may have been errors or omissions. The author is not responsible for such errors. 
+Though we have taken adequate care to create this script, however there may have been errors or omissions. The author is not responsible for such errors. This script is provided as-is with no warranties. Use at your own risk. 
 
 Please consult professionals before taking any decisions. 
 
